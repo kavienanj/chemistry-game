@@ -144,6 +144,9 @@ button {
     font-size: 14px;
     max-height: 150px;
     overflow: hidden;
+    border: #d4d4d4;
+    border-style: solid;
+    border-width: thin;
     color: #d4d4d4;
     width: 70%;
 }
